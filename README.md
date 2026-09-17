@@ -1,41 +1,60 @@
 # Operational Structuring Case Study
 
-## From Operational Setup to Performance Management
+## Building a Cross-Functional Operating Model from the Ground Up
 
-An anonymized case study demonstrating how a growing commercial and customer operations environment was structured through processes, roles, documentation, KPIs and management routines.
+An anonymized case study demonstrating how a multi-service education and international mobility environment was structured through processes, knowledge management, roles, KPIs, reporting and management routines.
+
+## Sector
+
+**Education, German Language Training & International Mobility Services**
+
+The operating environment combined several interconnected activities, including:
+
+- German language training / Academy
+- TELC examination and preparation services
+- Study and visa support
+- Professional placement
+- Multiple agencies / centers
+- Marketing & Communication
+- Call Center / Customer Operations
 
 ## Context
 
-The operation required a more structured operating model covering:
+The operation required a more structured operating model across multiple departments and customer-facing activities.
 
-- Customer journey
-- Lead management
-- Roles & responsibilities
-- Process documentation
-- Planning
-- Performance monitoring
-- Reporting
-- Management routines
-
-The objective was to move from fragmented operational practices toward a clearer and more measurable operating model.
+The objective was to move from fragmented operational practices toward a clearer, documented and measurable way of working.
 
 ## Transformation Approach
 
 **Diagnose → Structure → Standardize → Measure → Pilot → Improve**
 
-## Workstreams
+## Key Workstreams
 
-### 1. Process Structure
+### 1. Cross-Functional Process Structure
 
-The customer and commercial journey was structured around:
+The customer journey was structured around:
 
 **Acquisition → Qualification → Conversion → Follow-up → Reporting → Management**
 
-The model considered multiple acquisition and customer-contact channels while keeping the process logic consistent.
+The model considered multiple customer entry points, services and internal handoffs.
 
-### 2. Operational Documentation
+### 2. Cross-Functional Knowledge Management
 
-A practical documentation base was developed to support day-to-day execution, including:
+A structured knowledge base was developed to organize operational information across different business areas, including:
+
+- Call Center
+- Academy / German language training
+- TELC
+- Study Visa
+- Professional Placement
+- Agencies / Centers
+- Marketing & Communication
+
+The objective was to make business knowledge more accessible, structured and transferable across teams.
+
+### 3. Operational Documentation
+
+The operating structure included:
 
 - Knowledge base
 - Process documentation
@@ -43,39 +62,42 @@ A practical documentation base was developed to support day-to-day execution, in
 - Role descriptions
 - Contact directory
 - Planning structure
+- Handover documentation
 
-### 3. Performance Management
+### 4. Performance Management
 
-The operating model introduced a clearer performance-management layer covering:
+A clearer performance-management layer was introduced around:
 
 - Activity indicators
-- Funnel indicators
+- Customer / sales funnel indicators
 - Operational KPIs
 - Performance dashboards
 - Reporting routines
 - Management actions
 
-### 4. Governance
+### 5. Governance & Continuity
 
-The structure also addressed:
+The structure addressed:
 
 - Responsibility allocation
 - Management cadence
 - Action tracking
 - Reporting ownership
 - Performance reviews
+- Handover and continuity
 - Escalation and follow-up
 
 ## Key Deliverables
 
-- Operating model
-- Customer journey / process map
+- Cross-functional operating model
+- Customer journey / process architecture
+- Knowledge management structure
 - KPI framework
 - Performance dashboard
-- Knowledge base
 - Planning structure
 - Role descriptions
 - Management reporting
+- Handover framework
 - Implementation roadmap
 
 ## Project Management Perspective
@@ -86,8 +108,10 @@ The transformation combined:
 - Agile principles
 - Lean thinking
 - Process improvement
+- Knowledge management
 - KPI management
-- Operational management
+- Operational governance
+- Cross-functional coordination
 
 The approach was designed to create a practical operating system rather than isolated documents.
 
@@ -95,21 +119,23 @@ The approach was designed to create a practical operating system rather than iso
 
 **Structure → Standardize → Measure → Pilot → Improve → Sustain**
 
-The objective is to create enough structure to improve visibility and accountability while keeping the operating model practical for the teams using it.
+The objective is to create enough structure to improve visibility, accountability and continuity while keeping the operating model practical for the teams using it.
 
 ## Confidentiality
 
 This case study is intentionally anonymized.
 
-Company identity, commercial data, customer information, individual performance data, internal financial information and proprietary operating details are excluded.
+Company identity, commercial data, customer information, individual performance data, internal financial information, proprietary tools and sensitive operating details are excluded.
 
-The repository focuses on the **transformation approach and transferable project-management practices**.
+The repository focuses on the **transformation approach, operating architecture and transferable project-management practices**.
 
 ## Skills Demonstrated
 
 - Operational Structuring
 - Project Management
+- PMO Coordination
 - Process Design
+- Knowledge Management
 - Operational Excellence
 - KPI & Dashboard Design
 - Governance
