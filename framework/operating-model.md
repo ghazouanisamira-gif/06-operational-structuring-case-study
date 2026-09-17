@@ -14,7 +14,7 @@ The model covered interconnected business areas including:
 - Professional Placement
 - Agencies / Centers
 - Marketing & Communication
-- Call Center / Customer Operations
+- Customer Operations
 
 ## Operating Logic
 
