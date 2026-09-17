@@ -1,48 +1,67 @@
-# Knowledge Base Framework
+# Cross-Functional Knowledge Management Framework
 
 ## Objective
 
-Create a single reference structure for operational knowledge and reduce dependency on informal information sharing.
+Create a structured knowledge system that makes operational information accessible, understandable and transferable across departments and locations.
 
-## Suggested Structure
+## Scope
 
-### 1. Process
+The knowledge architecture covered multiple business areas:
 
-- Process overview
-- Key steps
-- Inputs / outputs
-- Roles
+### Customer Operations
+- Call Center
+- Customer handling
+- Operational guidance
 
-### 2. Operating Guidance
+### Education & Training
+- Academy
+- German language training
+- TELC
 
-- Standard procedures
-- Customer interaction guidance
-- Escalation rules
-- Common scenarios
+### International Mobility
+- Study Visa
+- Related customer journey and support information
 
-### 3. Tools & Resources
+### Professional Mobility
+- Professional Placement
 
-- Systems
-- Forms
-- Templates
-- Contact information
+### Network
+- Agencies / Centers
+- Contact and coordination information
 
-### 4. Performance
+### Marketing & Communication
+- Marketing information
+- Campaign / communication context
 
-- KPIs
-- Dashboard definitions
-- Reporting cadence
-- Management routines
+## Suggested Knowledge Structure
 
-### 5. Continuous Improvement
+### 1. Business Area
+Define the activity, services and scope.
 
-- Known issues
-- Improvement actions
-- Lessons learned
-- Change history
+### 2. Process
+Document the main workflow and key handoffs.
 
-## Documentation Principle
+### 3. Operating Guidance
+Provide practical information required for execution.
 
-Documentation should be:
+### 4. Tools & Resources
+Centralize relevant systems, forms, templates and contacts.
 
-**Accessible → Clear → Current → Owned → Useful**
+### 5. Performance
+Link processes to KPIs, dashboards and reporting routines.
+
+### 6. Governance
+Define ownership, escalation and review mechanisms.
+
+### 7. Continuous Improvement
+Track known issues, improvements, lessons learned and changes.
+
+## Knowledge Management Principle
+
+**Structure → Centralize → Standardize → Share → Maintain**
+
+The objective is not to document everything. It is to make the right operational knowledge available to the right people at the right time.
+
+## Continuity
+
+A structured knowledge base reduces dependency on individual knowledge and supports onboarding, cross-functional collaboration and operational handover.
