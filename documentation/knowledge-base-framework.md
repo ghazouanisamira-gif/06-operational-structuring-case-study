@@ -9,7 +9,6 @@ Create a structured knowledge system that makes operational information accessib
 The knowledge architecture covered multiple business areas:
 
 ### Customer Operations
-- Call Center
 - Customer handling
 - Operational guidance
 
