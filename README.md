@@ -1,8 +1,8 @@
-# Operational Structuring Case Study
+# Operational Structuring & Performance Transformation
 
 ## Building a Cross-Functional Operating Model from the Ground Up
 
-An anonymized case study demonstrating how a multi-service education and international mobility environment was structured through processes, knowledge management, roles, KPIs, reporting and management routines.
+An anonymized case study demonstrating how a multi-service education and international mobility environment was structured through processes, knowledge management, roles, KPIs, reporting, performance management and management routines.
 
 ## Sector
 
@@ -16,7 +16,7 @@ The operating environment combined several interconnected activities, including:
 - Professional placement
 - Multiple agencies / centers
 - Marketing & Communication
-- Call Center / Customer Operations
+- Customer Operations
 
 ## Context
 
@@ -26,7 +26,7 @@ The objective was to move from fragmented operational practices toward a clearer
 
 ## Transformation Approach
 
-**Diagnose → Structure → Standardize → Measure → Pilot → Improve**
+**Diagnose → Structure → Standardize → Measure → Challenge → Improve → Sustain**
 
 ## Key Workstreams
 
@@ -42,7 +42,7 @@ The model considered multiple customer entry points, services and internal hando
 
 A structured knowledge base was developed to organize operational information across different business areas, including:
 
-- Call Center
+- Customer Operations
 - Academy / German language training
 - TELC
 - Study Visa
@@ -66,16 +66,33 @@ The operating structure included:
 
 ### 4. Performance Management
 
-A clearer performance-management layer was introduced around:
+A performance-management layer was introduced around:
 
 - Activity indicators
 - Customer / sales funnel indicators
 - Operational KPIs
 - Performance dashboards
-- Reporting routines
+- Weekly and monthly reporting
 - Management actions
+- Targeted performance follow-up
 
-### 5. Governance & Continuity
+Performance was monitored as a trend over time and interpreted in context rather than through simplistic cross-channel individual rankings.
+
+### 5. Team Performance Development
+
+The structure was also used to challenge and support team performance through:
+
+- Conversion monitoring
+- Individual performance trends
+- Targeted coaching
+- Follow-up actions
+- Needs discovery and sales approach improvement
+- Relance / follow-up practices
+- Continuous performance reviews
+
+The objective was to improve conversion while accounting for differences in acquisition channels and operational responsibilities.
+
+### 6. Governance & Continuity
 
 The structure addressed:
 
@@ -87,6 +104,23 @@ The structure addressed:
 - Handover and continuity
 - Escalation and follow-up
 
+## Performance Evidence
+
+Internal business data is intentionally not disclosed in this public case study.
+
+The project included weekly and monthly monitoring of:
+
+- Lead qualification
+- Gross funnel conversion
+- Enrollment performance
+- Revenue performance
+- Channel performance
+- Individual performance trends
+
+The monitoring framework showed a positive conversion trajectory over the June–August period, with gross conversion improving by **2.5 percentage points** and a relative improvement of approximately **42%**.
+
+These figures are presented only as high-level performance indicators; underlying volumes, revenue, customer data and individual performance data remain confidential.
+
 ## Key Deliverables
 
 - Cross-functional operating model
@@ -94,6 +128,7 @@ The structure addressed:
 - Knowledge management structure
 - KPI framework
 - Performance dashboard
+- Weekly / monthly reporting
 - Planning structure
 - Role descriptions
 - Management reporting
@@ -110,6 +145,7 @@ The transformation combined:
 - Process improvement
 - Knowledge management
 - KPI management
+- Performance management
 - Operational governance
 - Cross-functional coordination
 
@@ -117,7 +153,7 @@ The approach was designed to create a practical operating system rather than iso
 
 ## Professional Approach
 
-**Structure → Standardize → Measure → Pilot → Improve → Sustain**
+**Structure → Standardize → Measure → Challenge → Improve → Sustain**
 
 The objective is to create enough structure to improve visibility, accountability and continuity while keeping the operating model practical for the teams using it.
 
@@ -127,7 +163,7 @@ This case study is intentionally anonymized.
 
 Company identity, commercial data, customer information, individual performance data, internal financial information, proprietary tools and sensitive operating details are excluded.
 
-The repository focuses on the **transformation approach, operating architecture and transferable project-management practices**.
+The repository focuses on the **transformation approach, operating architecture, performance-management practices and transferable project-management methods**.
 
 ## Skills Demonstrated
 
@@ -138,9 +174,10 @@ The repository focuses on the **transformation approach, operating architecture 
 - Knowledge Management
 - Operational Excellence
 - KPI & Dashboard Design
+- Performance Management
 - Governance
 - Documentation
-- Performance Management
+- Team Performance Development
 - Cross-functional Coordination
 - Continuous Improvement
 
