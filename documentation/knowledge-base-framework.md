@@ -2,15 +2,18 @@
 
 ## Objective
 
-Create a structured knowledge system that makes operational information accessible, understandable and transferable across departments and locations.
+Build a structured knowledge system that makes operational information accessible, understandable, transferable and maintainable across departments.
+
+The knowledge base was treated as part of the operating model rather than a static documentation repository.
 
 ## Scope
 
-The knowledge architecture covered multiple business areas:
+The knowledge architecture covered:
 
 ### Customer Operations
 - Customer handling
-- Operational guidance
+- qualification and follow-up guidance
+- operational procedures
 
 ### Education & Training
 - Academy
@@ -19,48 +22,54 @@ The knowledge architecture covered multiple business areas:
 
 ### International Mobility
 - Study Visa
-- Related customer journey and support information
+- customer journey and support information
 
 ### Professional Mobility
 - Professional Placement
 
 ### Network
 - Agencies / Centers
-- Contact and coordination information
+- contacts and coordination information
 
 ### Marketing & Communication
-- Marketing information
-- Campaign / communication context
+- marketing information
+- communication context
+- operational coordination points
 
-## Suggested Knowledge Structure
+## Knowledge Structure
 
-### 1. Business Area
-Define the activity, services and scope.
+Each business area can be organized around:
 
-### 2. Process
-Document the main workflow and key handoffs.
+1. **Business Area** — what the activity covers
+2. **Process** — how the activity flows
+3. **Operating Guidance** — what teams need to execute
+4. **Tools & Resources** — where information and forms are located
+5. **Roles & Contacts** — who owns or supports the activity
+6. **Performance** — which KPIs and reports apply
+7. **Governance** — escalation and review mechanisms
+8. **Continuous Improvement** — issues, changes and lessons learned
 
-### 3. Operating Guidance
-Provide practical information required for execution.
+## Knowledge Management Lifecycle
 
-### 4. Tools & Resources
-Centralize relevant systems, forms, templates and contacts.
+**Capture → Structure → Validate → Publish → Use → Update → Review**
 
-### 5. Performance
-Link processes to KPIs, dashboards and reporting routines.
+This prevents the knowledge base from becoming a one-time documentation exercise.
 
-### 6. Governance
-Define ownership, escalation and review mechanisms.
+## Operational Value
 
-### 7. Continuous Improvement
-Track known issues, improvements, lessons learned and changes.
+A structured knowledge base supports:
 
-## Knowledge Management Principle
+- faster onboarding
+- consistency of execution
+- cross-functional collaboration
+- reduced dependency on individual knowledge
+- easier handover
+- clearer ownership
+- faster access to operational information
+- continuity during organizational changes
 
-**Structure → Centralize → Standardize → Share → Maintain**
+## Management Principle
 
-The objective is not to document everything. It is to make the right operational knowledge available to the right people at the right time.
+**The right knowledge + the right structure + the right ownership = operational continuity.**
 
-## Continuity
-
-A structured knowledge base reduces dependency on individual knowledge and supports onboarding, cross-functional collaboration and operational handover.
+The objective is not to document everything. It is to make the information required for execution available at the point where teams need it.
