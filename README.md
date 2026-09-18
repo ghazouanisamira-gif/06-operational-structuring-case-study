@@ -4,7 +4,7 @@
 
 An anonymized case study demonstrating how a multi-service education and international mobility environment was structured **from a fragmented starting point into a more visible, documented and measurable operating model**.
 
-The work combined process architecture, data organization, knowledge management, role clarification, KPI design, dashboards, reporting, team development, coaching, governance, planning and continuous improvement.
+The work combined process architecture, data organization, knowledge management, role clarification, KPI design, dashboards, reporting, **people and manager enablement**, coaching, governance, planning and continuous improvement.
 
 ## Sector
 
@@ -26,9 +26,9 @@ The transformation addressed an environment where operational information, pract
 
 The challenge was therefore broader than documenting processes. It required first to:
 
-**Observe → Organize → Understand → Structure → Standardize → Measure → Improve**
+**Observe → Organize → Understand → Structure → Standardize → Enable → Measure → Improve**
 
-The objective was to create an operating system that teams could actually use.
+The objective was to create an operating system that teams and managers could actually use.
 
 ## Transformation Architecture
 
@@ -100,20 +100,37 @@ The principle was:
 
 Performance was monitored as a trend and interpreted in context rather than through simplistic cross-channel rankings.
 
-### 5. Team Performance & Coaching
+### 5. People, Coaching & Manager Enablement
 
-The operating structure was used to support team performance through:
+People development was treated as an operating capability, not as a separate training activity.
 
-- conversion monitoring
-- performance trends
-- targeted coaching
-- needs discovery
-- sales / qualification approach improvement
-- follow-up and relance practices
-- recurring performance reviews
-- corrective actions
+The work included:
 
-The objective was not only to report performance, but to understand the causes and translate observations into concrete actions.
+- onboarding and enablement of operational managers
+- clarification of roles, responsibilities and interfaces
+- organization of daily and weekly management routines
+- design/adaptation of practical To-Do Lists and management checklists
+- selection of tools appropriate to the role and operating context
+- technical and methodological coaching
+- process and quality coaching
+- targeted training based on identified capability needs
+- performance feedback and follow-up
+- knowledge transfer and reinforcement
+- development of autonomy and ownership
+
+The coaching approach connected:
+
+**Observe → Diagnose → Coach → Apply → Feedback → Follow Up → Reassess**
+
+Importantly, performance gaps were not automatically treated as training problems. The diagnosis considered **People, Process, Tools, Information, Governance, Workload/Organization and Measurement** before defining the appropriate intervention.
+
+Manager enablement was designed around:
+
+**Role clarity → Operational understanding → Priorities → Tools → Daily routines → KPI management → Team follow-up → Reporting → Coaching → Autonomy**
+
+The objective was to help managers become operationally effective and progressively autonomous rather than dependent on continuous support.
+
+Detailed methodology: [Team Performance, Coaching & Capability Development](team-performance/coaching-and-performance-development.md)
 
 ### 6. Planning, Governance & Management Routines
 
@@ -178,7 +195,9 @@ The transformation produced an integrated operating structure including:
 - planning structure
 - management reporting
 - action tracking
-- coaching / performance follow-up
+- manager onboarding / enablement structure
+- coaching and capability-development framework
+- management To-Do Lists / routines
 - handover framework
 - implementation roadmap
 
@@ -194,15 +213,17 @@ The transformation combined:
 - Knowledge management
 - KPI management
 - Performance management
+- People development
+- Manager enablement
 - Governance
 - Cross-functional coordination
 - Change adoption
 
-The work demonstrates the ability to **take an initially fragmented operating environment, structure it into manageable workstreams, establish management mechanisms and drive implementation through iterative adjustments.**
+The work demonstrates the ability to **take an initially fragmented operating environment, structure it into manageable workstreams, enable the people responsible for execution, establish management mechanisms and drive implementation through iterative adjustments.**
 
 ## Professional Approach
 
-**Diagnose → Structure → Standardize → Measure → Challenge → Improve → Sustain**
+**Diagnose → Structure → Standardize → Enable → Measure → Challenge → Improve → Sustain**
 
 ## Confidentiality
 
@@ -210,7 +231,7 @@ This case study is intentionally anonymized.
 
 Company identity, commercial data, customer information, individual performance data, internal financial information, proprietary tools and sensitive operating details are excluded.
 
-The repository focuses on the **transformation approach, operating architecture, performance-management practices and transferable project-management methods**.
+The repository focuses on the **transformation approach, operating architecture, performance-management practices, people/manager enablement and transferable project-management methods**.
 
 ## Skills Demonstrated
 
@@ -222,6 +243,12 @@ The repository focuses on the **transformation approach, operating architecture,
 - Operational Excellence
 - KPI & Dashboard Design
 - Performance Management
+- Coaching & Capability Development
+- Manager Enablement
+- Onboarding
+- Training Needs Analysis
+- Knowledge Transfer
+- Management Routines
 - Governance
 - Documentation
 - Team Performance Development
