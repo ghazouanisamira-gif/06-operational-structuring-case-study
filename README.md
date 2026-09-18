@@ -130,7 +130,7 @@ Manager enablement was designed around:
 
 The objective was to help managers become operationally effective and progressively autonomous rather than dependent on continuous support.
 
-Detailed methodology: [Team Performance, Coaching & Capability Development](team-performance/coaching-and-performance-development.md)
+Detailed methodology: [People Development & Manager Enablement](https://github.com/ghazouanisamira-gif/10-people-development-manager-enablement) — dedicated evidence and reusable framework.
 
 ### 6. Planning, Governance & Management Routines
 
