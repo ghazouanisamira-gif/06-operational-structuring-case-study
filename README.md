@@ -236,3 +236,8 @@ The repository focuses on the **transformation approach, operating architecture,
 PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
 
 **Quality & PMO | Project & Operational Excellence | Risk Management**
+
+## Related Portfolio Evidence
+
+- [Operational Performance Framework](https://github.com/ghazouanisamira-gif/03-operational-performance) — KPI architecture, dashboards and performance management.
+- [Project Management Toolkit](https://github.com/ghazouanisamira-gif/01-project-management-toolkit) — reusable PMO and project-management tools.
