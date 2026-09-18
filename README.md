@@ -2,13 +2,15 @@
 
 ## Building a Cross-Functional Operating Model from the Ground Up
 
-An anonymized case study demonstrating how a multi-service education and international mobility environment was structured through processes, knowledge management, roles, KPIs, reporting, performance management and management routines.
+An anonymized case study demonstrating how a multi-service education and international mobility environment was structured **from a fragmented starting point into a more visible, documented and measurable operating model**.
+
+The work combined process architecture, data organization, knowledge management, role clarification, KPI design, dashboards, reporting, team development, coaching, governance, planning and continuous improvement.
 
 ## Sector
 
 **Education, German Language Training & International Mobility Services**
 
-The operating environment combined several interconnected activities, including:
+The operating environment combined:
 
 - German language training / Academy
 - TELC examination and preparation services
@@ -18,29 +20,40 @@ The operating environment combined several interconnected activities, including:
 - Marketing & Communication
 - Customer Operations
 
-## Context
+## Starting Point
 
-The operation required a more structured operating model across multiple departments and customer-facing activities.
+The transformation addressed an environment where operational information, practices and responsibilities needed stronger structure and coordination.
 
-The objective was to move from fragmented operational practices toward a clearer, documented and measurable way of working.
+The challenge was therefore broader than documenting processes. It required first to:
 
-## Transformation Approach
+**Observe → Organize → Understand → Structure → Standardize → Measure → Improve**
 
-**Diagnose → Structure → Standardize → Measure → Challenge → Improve → Sustain**
+The objective was to create an operating system that teams could actually use.
 
-## Key Workstreams
+## Transformation Architecture
 
-### 1. Cross-Functional Process Structure
+The work was organized across interconnected workstreams:
+
+### 1. Operating Model & Process Architecture
 
 The customer journey was structured around:
 
-**Acquisition → Qualification → Conversion → Follow-up → Reporting → Management**
+**Acquisition → Qualification → Service Path → Conversion → Follow-up → Performance Monitoring → Management Action**
 
-The model considered multiple customer entry points, services and internal handoffs.
+Multiple entry points, services, channels and internal handoffs were considered.
+
+The focus was to make clear:
+
+- what happens
+- who owns it
+- what information is required
+- what output is expected
+- where the handoff occurs
+- how performance is measured
 
 ### 2. Cross-Functional Knowledge Management
 
-A structured knowledge base was developed to organize operational information across different business areas, including:
+A structured knowledge base was developed across:
 
 - Customer Operations
 - Academy / German language training
@@ -50,72 +63,101 @@ A structured knowledge base was developed to organize operational information ac
 - Agencies / Centers
 - Marketing & Communication
 
-The objective was to make business knowledge more accessible, structured and transferable across teams.
+The objective was to reduce dependency on informal knowledge and make operational information easier to access, use, update and transfer.
 
-### 3. Operational Documentation
+### 3. Operational Documentation & Standardization
 
-The operating structure included:
+The structure included:
 
-- Knowledge base
-- Process documentation
-- Operating guidance
-- Role descriptions
-- Contact directory
-- Planning structure
-- Handover documentation
+- process documentation
+- operating guidance
+- knowledge base
+- role descriptions
+- contact directory
+- planning structure
+- reporting structure
+- handover documentation
 
-### 4. Performance Management
+Documentation was treated as an operational control, not an administrative deliverable.
 
-A performance-management layer was introduced around:
+### 4. Data, KPI & Performance Management
 
-- Activity indicators
-- Customer / sales funnel indicators
-- Operational KPIs
-- Performance dashboards
-- Weekly and monthly reporting
-- Management actions
-- Targeted performance follow-up
+A performance layer was established around:
 
-Performance was monitored as a trend over time and interpreted in context rather than through simplistic cross-channel individual rankings.
+- activity indicators
+- customer / sales funnel indicators
+- operational KPIs
+- channel performance
+- individual performance trends
+- dashboards
+- weekly reporting
+- monthly management reporting
+- action tracking
 
-### 5. Team Performance Development
+The principle was:
 
-The structure was also used to challenge and support team performance through:
+**From fragmented operational data to actionable performance insights.**
 
-- Conversion monitoring
-- Individual performance trends
-- Targeted coaching
-- Follow-up actions
-- Needs discovery and sales approach improvement
-- Relance / follow-up practices
-- Continuous performance reviews
+Performance was monitored as a trend and interpreted in context rather than through simplistic cross-channel rankings.
 
-The objective was to improve conversion while accounting for differences in acquisition channels and operational responsibilities.
+### 5. Team Performance & Coaching
 
-### 6. Governance & Continuity
+The operating structure was used to support team performance through:
 
-The structure addressed:
+- conversion monitoring
+- performance trends
+- targeted coaching
+- needs discovery
+- sales / qualification approach improvement
+- follow-up and relance practices
+- recurring performance reviews
+- corrective actions
 
-- Responsibility allocation
-- Management cadence
-- Action tracking
-- Reporting ownership
-- Performance reviews
-- Handover and continuity
-- Escalation and follow-up
+The objective was not only to report performance, but to understand the causes and translate observations into concrete actions.
+
+### 6. Planning, Governance & Management Routines
+
+Because several workstreams were running simultaneously, a structured planning rhythm was established to coordinate:
+
+- operational priorities
+- documentation
+- knowledge management
+- KPI implementation
+- reporting
+- team follow-up
+- improvement actions
+- handover and continuity
+
+Management routines connected:
+
+**Data → Analysis → Decision → Action → Follow-up → Adjustment**
+
+### 7. Governance & Continuity
+
+The operating structure addressed:
+
+- responsibility allocation
+- management cadence
+- reporting ownership
+- action tracking
+- performance reviews
+- escalation
+- handover
+- continuity
+- continuous improvement
 
 ## Performance Evidence
 
 Internal business data is intentionally not disclosed in this public case study.
 
-The project included weekly and monthly monitoring of:
+The framework included monitoring of:
 
-- Lead qualification
-- Gross funnel conversion
-- Enrollment performance
-- Revenue performance
-- Channel performance
-- Individual performance trends
+- lead qualification
+- gross funnel conversion
+- enrollment performance
+- channel performance
+- activity trends
+- individual performance trends
 
 The monitoring framework showed a positive conversion trajectory over the June–August period, with gross conversion improving by **2.5 percentage points** and a relative improvement of approximately **42%**.
 
@@ -123,39 +165,44 @@ These figures are presented only as high-level performance indicators; underlyin
 
 ## Key Deliverables
 
-- Cross-functional operating model
-- Customer journey / process architecture
-- Knowledge management structure
+The transformation produced an integrated operating structure including:
+
+- cross-functional operating model
+- customer journey / process architecture
+- knowledge base
+- process documentation
+- role descriptions
 - KPI framework
-- Performance dashboard
-- Weekly / monthly reporting
-- Planning structure
-- Role descriptions
-- Management reporting
-- Handover framework
-- Implementation roadmap
+- performance dashboard
+- weekly / monthly reporting
+- planning structure
+- management reporting
+- action tracking
+- coaching / performance follow-up
+- handover framework
+- implementation roadmap
 
 ## Project Management Perspective
 
 The transformation combined:
 
 - Project structuring
+- PMO coordination
 - Agile principles
 - Lean thinking
 - Process improvement
 - Knowledge management
 - KPI management
 - Performance management
-- Operational governance
+- Governance
 - Cross-functional coordination
+- Change adoption
 
-The approach was designed to create a practical operating system rather than isolated documents.
+The work demonstrates the ability to **take an initially fragmented operating environment, structure it into manageable workstreams, establish management mechanisms and drive implementation through iterative adjustments.**
 
 ## Professional Approach
 
-**Structure → Standardize → Measure → Challenge → Improve → Sustain**
-
-The objective is to create enough structure to improve visibility, accountability and continuity while keeping the operating model practical for the teams using it.
+**Diagnose → Structure → Standardize → Measure → Challenge → Improve → Sustain**
 
 ## Confidentiality
 
@@ -180,6 +227,7 @@ The repository focuses on the **transformation approach, operating architecture,
 - Team Performance Development
 - Cross-functional Coordination
 - Continuous Improvement
+- Change & Adoption
 
 ## Author
 
