@@ -2,23 +2,17 @@
 
 ## Building a Cross-Functional Operating Model from the Ground Up
 
-An anonymized case study demonstrating how a multi-service education and international mobility environment was structured **from a fragmented starting point into a more visible, documented and measurable operating model**.
+An anonymized case study demonstrating how a **multi-service customer-facing operating environment** was structured **from a fragmented starting point into a more visible, documented and measurable operating model**.
 
 The work combined process architecture, data organization, knowledge management, role clarification, KPI design, dashboards, reporting, **people and manager enablement**, coaching, governance, planning and continuous improvement.
 
 ## Sector
 
-**Education, German Language Training & International Mobility Services**
+**Multi-service customer operations / service environment**
 
-The operating environment combined:
+The operating environment combined multiple service lines, customer-facing operations, acquisition channels, support functions and cross-functional handoffs.
 
-- German language training / Academy
-- TELC examination and preparation services
-- Study and visa support
-- Professional placement
-- Multiple agencies / centers
-- Marketing & Communication
-- Customer Operations
+Specific service names, products, partner types and market identifiers are intentionally omitted from this public version.
 
 ## Starting Point
 
@@ -56,12 +50,10 @@ The focus was to make clear:
 A structured knowledge base was developed across:
 
 - Customer Operations
-- Academy / German language training
-- TELC
-- Study Visa
-- Professional Placement
-- Agencies / Centers
-- Marketing & Communication
+- Service / delivery teams
+- Support functions
+- Acquisition / communication
+- Cross-functional coordination
 
 The objective was to reduce dependency on informal knowledge and make operational information easier to access, use, update and transfer.
 
@@ -176,7 +168,7 @@ The framework included monitoring of:
 - activity trends
 - individual performance trends
 
-The monitoring framework showed a positive conversion trajectory over the June–August period, with gross conversion improving by **2.5 percentage points** and a relative improvement of approximately **42%**.
+The monitoring framework showed a positive conversion trajectory during the initial 2026 implementation period, with gross conversion showing an approximate **42% relative improvement**.
 
 These figures are presented only as high-level performance indicators; underlying volumes, revenue, customer data and individual performance data remain confidential.
 
