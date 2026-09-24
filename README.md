@@ -16,7 +16,7 @@ Specific commercial data, customer information, internal financial details and p
 
 ## Role & Scope
 
-**Customer Experience & Operations Manager | Boosteno | 2026**
+**Head of Customer Operations | Boosteno | 2026**
 
 The assignment focused on structuring customer-facing operations and connecting **Call Center, Marketing, Recruitment and business/process knowledge** into a more measurable operating model.
 
@@ -24,7 +24,7 @@ The assignment focused on structuring customer-facing operations and connecting 
 
 - **~3 months** — end-to-end operational structuring initiative
 - **3 Call Center agents** at the initial stage of the assignment
-- **~42% relative improvement in gross conversion** during the initial 2026 implementation period
+- **Gross conversion rate from 5.9% to 8.4%** between June and August 2026 (registered leads ÷ unique prospects), with registrations broadly stable while lead volume declined; observed in parallel with the deployed action plans (systematic follow-up, call opening, needs discovery, objection handling), without claiming causality
 - Management approval secured for the **Winter Plan**, a B2B prospecting project designed to anticipate the expected seasonal slowdown
 
 Underlying volumes, revenue, customer data, individual performance data and sensitive internal information remain confidential.
